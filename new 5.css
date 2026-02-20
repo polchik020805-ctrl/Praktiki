@@ -421,6 +421,6 @@ img {
   margin-top: 6vw;
   margin-left: 525px;
   z-index: 1;
- filter: drop-shadow(4px 10px 15px цвет тени);
+ filter: drop-shadow(4px 10px 15px green);
 }
 }
